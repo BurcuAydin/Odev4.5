@@ -1,0 +1,13 @@
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.exe
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.dll
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csprojAssemblyReference.cache
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.dll
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+C:\Users\burcu\source\repos\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
